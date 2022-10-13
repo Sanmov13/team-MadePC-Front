@@ -17,13 +17,13 @@
 - Страница игры под который подходит ПК, с возможностью просмотра максимальных и минимальных настроек
 - Страница одного ПК, с возможность просмотра всех деталей с подробным описанием
 - Возможность сборки ПК под себя
+- 
+![Made PC - Google Chrome 2022-10-13 10-52-42_Trim_Trim](https://user-images.githubusercontent.com/105623098/195577203-de172a5f-085c-427d-85f6-6ca562480d3b.gif)
 
 
 ![Made PC - Google Chrome 2022-10-13 10-52-42_Trim (2)](https://user-images.githubusercontent.com/105623098/195575652-7cd034c5-76a7-4a60-830b-7e2050a5c885.gif)
 
 - Есть возможность собирать всой компьютер
-
-![gif](https://github.com/Kharsaeva/project-recipes/blob/Aisha/IMG_1337.gif)
 
 ## Запуск проекта
 
