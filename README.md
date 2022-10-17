@@ -1,7 +1,9 @@
 # Сайт по продаже ПК
 
 <p>Это групповой проект, выполненный студентами школы программирования <a href="https://intocode.ru/" target="_blank">Intocode</a>.</p>
+<br/>
 
+<p>Вот ссылка на наш <a href="https://madepc-frontend.onrender.com/">проект<a/><p/>
 
 ## Функционал сайта
 
